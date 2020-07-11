@@ -1,4 +1,4 @@
-# :man_technologist: Andersu Silva
+# :man_technologist: Andersu Silva - Web and Mobile Development
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/andersusilva)](https://github.com/andersusilva)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andersusilva/)](https://www.linkedin.com/in/andersusilva/)
@@ -23,5 +23,5 @@
 
 
 
-> 💻 [developforweb.com.br](https://developforweb.com.br)
+> 🚩 [developforweb.com.br](https://developforweb.com.br)
 ---
