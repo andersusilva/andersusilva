@@ -12,14 +12,14 @@
 
 <h2> Olá, meus amigos <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-<img align='right' src='https://developforweb.com.br/wp-content/uploads/2020/04/dev-logo.png' width='199' height='199'>
+<img align='right' src='https://i.imgur.com/ptc4TAn.png' width='199' height='199'>
 
-  💻	Meu nome é Andersu Silva, CEO da **Develop For Web** e apaixonado por *Desenvolvimento* e *Design Interativo*.
+  💻	Meu nome é Anderson Sato da Silva, ou Andersu Silva como assino em meus projetos pessoais, Founder da **Develop For Web** e apaixonado por *Desenvolvimento* e *Design Interativo*.
 
-- 🏢 Desenvolvedor Pleno na **Spread Tecnologia**
-- ⚡ Techs: React Native, Node.JS, GIT, Java, Angular, Ionic, TypeScript, SCSS entre outras mais...
+- 🏢 Desenvolvedor Sênior na **Spread Tecnologia**
+- ⚡ Techs: React Native, Node JS, GIT, Java, Kotlin, Angular, Ionic, TypeScript, SCSS entre outras mais...
 - 🎓 Estudos: Graduado em Análise e Desenvolvimento de Sistemas e Pós-graduado em Desenvolvimento de Tecnologias WebMobile.
-- 📚 Cursos em Andamento: Android Nativo, com Android Studio e Bootcamp Desenvolvimento Full Stack pela IGTI :heart:
+- 📚 Cursos em Andamento: Android Nativo, com Kotlin e Full Cycle 2.0 da Code Education :heart:
 
 
 
