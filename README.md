@@ -29,7 +29,3 @@
   ##
 
 ![Snake animation](https://raw.githubusercontent.com/andersusilva/andersusilva/cf9302abd0f1f12c578e1d41bcf7508946ba6b2b/github-contribution-grid-snake.svg)
-
-
-> 🚩 [developforweb.com.br](https://developforweb.com.br)
----
