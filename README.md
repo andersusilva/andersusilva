@@ -21,7 +21,7 @@
 
   💻 Meu nome é Anderson Sato da Silva, ou Andersu Silva como assino em meus projetos pessoais, Founder da **Develop For Web** e apaixonado por *Desenvolvimento* e *Design Interativo*.
 
-- 🏢 Desenvolvedor Mobile Sênior na **Spread Tecnologia**
+- 🏢 Desenvolvedor Sênior de SW 5 na **SONDA**
 - ⚡ Techs: React Native, React JS, Node JS, GIT, Java, Spring Boot, Kotlin, Angular, Ionic, TypeScript, SASS, SCSS entre outras mais...
 - 🎓 Estudos: Graduado em Análise e Desenvolvimento de Sistemas e Pós-graduado em Desenvolvimento de Tecnologias WebMobile.
 - 📚 Cursos em Andamento: Angular Avançado da [Desenvolvedor.io](http://desenvolvedor.io/), Android Nativo com Kotlin no [Alura](https://www.alura.com.br/) e [Full Cycle 2.0](https://fullcycle.com.br/) da Code Education :heart:
