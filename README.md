@@ -9,7 +9,13 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/developforweb)](https://t.me/developforweb)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andersusatosilva@gmail.com)](mailto:andersusatosilva@gmail.com)
 
-<h2> Olá, meus amigos <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h2>
+  <div align="center">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Comic&size=25&color=blue&center=true&vCenter=true&width=500&lines=Olá!+Meus+amigos+<coders/>+👋🏽;Sou+um+Desenvolvedor+Full+Stack+👩🏽‍💻;" alt="Olá, Meu nome é Andersu Silva.">
+    </a>
+  </div>
+</h2>
 
 <img align='right' src='https://i.imgur.com/ptc4TAn.png' width='199' height='199'>
 
